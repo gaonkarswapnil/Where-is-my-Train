@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Where is my Train</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="update_timetable">Update Timetable</string>
+    <string name="language">Language</string>
+    <string name="change_city">Change City</string>
+    <string name="clear_recent_searches">Clear Recent Searches</string>
+    <string name="settings">Settings</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="report_issue">Report Issue</string>
+    <string name="suggest_a_feature">Suggest a feature</string>
+    <string name="view_all_alerts">View all Alerts</string>
+
+    <string name="google"><i>from</i> <b>Google</b></string>
+
+    <string name="from">From Station</string>
+    <string name="to">To Station</string>
+    <string name="find_trains">Find Trains</string>
+
+    <string name="train_no">Train No. / Train Name</string>
+    <string name="station_code">Station departure board</string>
+
+
+    <string name="pnr">PNR</string>
+    <string name="ticket">TICKETS</string>
+
+    <string name="station">Station-Indicator at:</string>
+
+    <string name="station_name">Enter Station Name</string>
+
+    <string name="local_train_map">Mumbai Local Train/Metro Map</string>
+
+    <string name="clear_pnr">Clear PNR History</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
