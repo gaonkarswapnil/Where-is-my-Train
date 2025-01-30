@@ -1,19 +1,19 @@
 ## App Screenshots
 
 ### Home Screen
-![Home Screen] (screenshots/HomePage.png)
+<img src="screenshots/HomePage.png" alt="Screenshot 1" width="150"/>
 
 ### SliderMenu
-![SliderMenu] (screenshots/SliderMenu.png)
+<img src="screenshots/SliderMenu.png" alt="Screenshot 1" width="150"/>
 
 ### Local
-![Local] (screenshots/Local.png)
+<img src="screenshots/Local.png" alt="Screenshot 1" width="150"/>
 
 ### BottomSheetDialog
-![BottomSheetDialog] (screenshots/BottomSheetDialog.png)
+<img src="screenshots/BottomSheetDialog.png" alt="Screenshot 1" width="150"/>
 
 ### pnr
-![pnr] (screenshots/pnr.png)
+<img src="screenshots/pnr.png" alt="Screenshot 1" width="150"/>
 
 ### Tickets
-![Tickets] (screenshots/Tickets.png)
+<img src="screenshots/Tickets.png" alt="Screenshot 1" width="150"/>
